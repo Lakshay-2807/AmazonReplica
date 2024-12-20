@@ -1,0 +1,2 @@
+# AmazonReplica
+Amazon Landing  Page
